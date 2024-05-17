@@ -1,0 +1,13 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "myapp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "package.json": "^2.0.1"
+  }
+}
