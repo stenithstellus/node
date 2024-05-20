@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: stenith/node
+  repository: stenith/pro
   tag: "v1"
 
 imagePullSecrets: []
