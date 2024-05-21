@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: stenith/pro
-  tag: "v1"
+  repository: 
+  tag: 
 
 imagePullSecrets: []
 nameOverride: "node-api"
